@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 data/*.mp4
+output/*.gif
 venv/*
 
 # C extensions
